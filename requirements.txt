@@ -1,0 +1,23 @@
+# Core LLM + LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+streamlit
+
+# Tavily Search tool
+tavily-python
+
+#Web scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxmlgt
+
+#Environment varibale
+python-dotenv
+ipykernel
+
+# Logging/ debugging (optinal but recommended)
+rich
